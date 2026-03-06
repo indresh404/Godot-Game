@@ -1,6 +1,6 @@
 # 🎮 3-Player Mario-Type Platformer Game (Godot)
 
-## 📅 Project Start Date
+## 📅 Project Finished
 June 2025
 
 ## 📌 Project Overview
